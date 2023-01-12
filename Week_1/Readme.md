@@ -6,4 +6,4 @@
 
 ## Thu Jan 12
 - Exercise 0
-- [Variables](variables.md)
+- [Variables](Variables.md)
