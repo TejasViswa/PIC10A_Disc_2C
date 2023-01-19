@@ -9,7 +9,7 @@ Please enter the input sequence: 1638
 ```
 
 ## Question 2
-Write a program that reads two times in military format (0900, 1730) and prints the number of hours and minutes between the two times. Here is a sample run. User input is in boldface.
+Write a program that reads two times in military format (0900, 1730) and prints the number of hours and minutes between the two times. Here is a sample run.
 ```
 Please enter the first time: 0900
 Please enter the second time: 1730
