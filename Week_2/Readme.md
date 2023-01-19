@@ -5,4 +5,4 @@
 - HW0
 
 ## Thu Jan 19
--
+- [Exercises](Exercises.md)
