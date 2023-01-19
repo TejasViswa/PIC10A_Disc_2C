@@ -30,4 +30,4 @@ Please enter the second time: 1730
 8 hours 30 minutes
 ```
 ### Hint:
-
+Make use of the modulo and integer division operator with 100 to extract hours and minutes. And remember, 1 hour is 60 minutes. You may use this fact when you calculate the difference.
