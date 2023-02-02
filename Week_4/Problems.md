@@ -33,7 +33,7 @@ Output: 6 is multiple of 3
 ```
 
 ## Question 3:
-Print the following pattern:
+Print the following pattern using a for loop:
 ```
 * * *
 $ $ $
