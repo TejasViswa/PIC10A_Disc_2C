@@ -3,5 +3,5 @@
 ## Tue Feb 14
 - [Exercises](Exercises.md)
 
-## Tue Feb 16
+## Thu Feb 16
 - [Problems](Problems.md)
