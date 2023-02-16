@@ -6,4 +6,4 @@
 ## Thu Feb 16
 - Midterm Practice Solutions Discussion
 
-## All the Best for your Midterm!!
+# All the Best for your Midterm !!!
