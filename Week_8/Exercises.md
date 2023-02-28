@@ -8,7 +8,9 @@ Create a function to print the sum of diagonals of a square array
 #include <iostream>
 using namespace std;
 
-void printDiagonalSums(int mat[][], int n)
+const int MAX = 100;
+
+void printDiagonalSums(int mat[][MAX], int n)
 {
 	int principal = 0, secondary = 0;
 	for (int i = 0; i < n; i++) {
@@ -31,10 +33,9 @@ void printDiagonalSums(int mat[][], int n)
 // Driver code
 int main()
 {
-  	int N = 4;
-	int a[N][N] = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 },
+	int a[][MAX] = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 },
 					{ 1, 2, 3, 4 }, { 5, 6, 7, 8 } };
-	printDiagonalSums(a, N);
+	printDiagonalSums(a, 4);
 	return 0;
 }
 
@@ -47,7 +48,7 @@ using namespace std;
 
 const int MAX = 100;
 
-void printDiagonalSums(int mat[][], int n)
+void printDiagonalSums(int mat[][MAX], int n)
 {
 	int principal = 0, secondary = 0;
 	for (int i = 0; i < n; i++) {
@@ -62,10 +63,9 @@ void printDiagonalSums(int mat[][], int n)
 // Driver code
 int main()
 {
-  	int N = 4;
-	int a[N][N] = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 },
+	int a[][MAX] = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 },
 					{ 1, 2, 3, 4 }, { 5, 6, 7, 8 } };
-	printDiagonalSums(a, N);
+	printDiagonalSums(a, 4);
 	return 0;
 }
 
