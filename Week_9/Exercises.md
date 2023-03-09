@@ -3,8 +3,8 @@
 ## Question 1
 Write a class for a Rectangle:
 1. Provide two constructors:
-	a. A default constructor that sets the rectangle to a unit square;
-	b. A constructor to construct a rectangle with a givenwidthandheight;
+	1. A default constructor that sets the rectangle to a unit square;
+	2. A constructor to construct a rectangle with a givenwidthandheight;
 2. Member functions getperimeter and getarea that compute and return the perimeter and area;
 3. Member function void resize(double factor) that resizes the rectangle by multiplying the width and height by the given factor.
 ### Solution
@@ -92,12 +92,12 @@ int main() {
 Write a class Bug that models a bug moving along a horizontal line. The bug moves either to the right or left. Initially, the bug moves to the right,but it can turn to change its direction. In each move, its position changesby one unit in the current direction. You may also practice separat ecompilation for this example (may discuss this on next discussion session).
 
 1. Provide two constructors
-	a. Bug()(Default constructor, set initial position to be 0.)
-	b. Bug(int initialposition)
+	1. Bug()(Default constructor, set initial position to be 0.)
+	2. Bug(int initialposition)
 2. Member functions
-	a. void turn()
-	b. void move()
-	c. int getposition()
+	1. void turn()
+	2. void move()
+	3. int getposition()
 ### Solution
 ```c++
 # include <iostream>
